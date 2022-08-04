@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T13:40:34.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="Yl_mioEKoFqvCbUiUix5" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T21:47:42.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="FLhHBBYtj6DqlCvlKhmc" version="20.2.0" type="github">
   <diagram name="FULL" id="cfkIHiAimT-sdduHXxQH">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
         <mxCell id="6NHNc_8Rr3skhuq6CxOa-24" value="Annotations" style="" parent="ey8v2JyhgUSTHSup6wXb-0" />
         <mxCell id="6NHNc_8Rr3skhuq6CxOa-25" value="Note: Window and outlet locations are approximate,&amp;nbsp;&lt;br&gt;&lt;br&gt;outlets within +- 0.25&#39; (center)" style="text;html=1;strokeColor=#FF0000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="6NHNc_8Rr3skhuq6CxOa-24" vertex="1">
           <mxGeometry x="600" y="750" width="170" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Xkqk7KnTk6PgZQcXqUff-0" value="Generic &lt;br&gt;Chair" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6NHNc_8Rr3skhuq6CxOa-24">
+          <mxGeometry x="450" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6NHNc_8Rr3skhuq6CxOa-42" value="Perimeter furniture" style="locked=1;" parent="ey8v2JyhgUSTHSup6wXb-0" visible="0" />
         <mxCell id="SyPgG_GoIG9ut0w4v-rR-0" value="Tan rectangular" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" parent="6NHNc_8Rr3skhuq6CxOa-42" vertex="1">
@@ -279,7 +282,7 @@
           <mxGeometry x="880" y="560" width="80" height="200" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-4" value="24&quot; x 60&quot; desk" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=east;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="330" y="585" width="200" height="80" as="geometry" />
+          <mxGeometry x="330" y="540" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-5" value="24&quot; x 60&quot; desk" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
           <mxGeometry x="710" y="120" width="80" height="200" as="geometry" />
@@ -288,10 +291,10 @@
           <mxGeometry x="790" y="120" width="80" height="200" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-7" value="Generic &lt;br&gt;Chair" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="390" y="745" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-8" value="Generic &lt;br&gt;Chair" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="390" y="505" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-9" value="Generic &lt;br&gt;Chair" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
           <mxGeometry x="630" y="180" width="80" height="80" as="geometry" />
@@ -300,25 +303,25 @@
           <mxGeometry x="790" y="560" width="80" height="200" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-12" value="24&quot; x 60&quot; desk" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="330" y="665" width="200" height="80" as="geometry" />
+          <mxGeometry x="330" y="620" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-14" value="Generic &lt;br&gt;Chair" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
           <mxGeometry x="870" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-15" value="24&quot; x 60&quot; desk" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="330" y="300" width="200" height="80" as="geometry" />
+          <mxGeometry x="330" y="290" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-16" value="24&quot; x 60&quot; desk" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="330" y="220" width="200" height="80" as="geometry" />
+          <mxGeometry x="330" y="210" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-17" value="Generic &lt;br&gt;Chair" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="390" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-18" value="Generic &lt;br&gt;Chair" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="390" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lkfWC7q_pBs8bp8PAqy5-19" value="24&quot; x 60&quot; desk&lt;br&gt;(flex?)" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=east;fillColor=#FFFFFF;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
-          <mxGeometry x="390" y="870" width="200" height="80" as="geometry" />
+        <mxCell id="lkfWC7q_pBs8bp8PAqy5-19" value="29&quot; x 53&quot; desk&lt;br&gt;(Alissa, provided via OAE)" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=east;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
+          <mxGeometry x="390" y="860" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lkfWC7q_pBs8bp8PAqy5-20" value="24&quot; x 60&quot; desk&lt;br&gt;(flex?)" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=east;fillColor=#FFFFFF;strokeColor=#6c8ebf;" parent="lkfWC7q_pBs8bp8PAqy5-0" vertex="1">
           <mxGeometry x="590" y="870" width="200" height="80" as="geometry" />
